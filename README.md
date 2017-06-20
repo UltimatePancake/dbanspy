@@ -1,8 +1,21 @@
 # Discordlist Bans Python
 
+## Installation: ##
 
+### pip: ###
 
-Examples:
+```bash
+$ pip install dbans
+```
+
+### Manual Install: ###
+
+```bash
+$ git clone https://github.com/JustMaffie/dbanspy && cd dbanspy
+$ pip install .
+```
+
+### Examples: ###
 
 ```py
 from dbans import DBans
