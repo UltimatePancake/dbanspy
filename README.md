@@ -7,13 +7,13 @@ DBans is a simple API wrapper for [DiscordList Bans](https://bans.discordlist.ne
 ### pip: ###
 
 ```bash
-$ pip install dbans
+$ pip install git+git@github.com:UltimatePancake/dbanspy.git@async
 ```
 
 ### Manual Install: ###
 
 ```bash
-$ git clone https://github.com/JustMaffie/dbanspy && cd dbanspy
+$ git clone https://github.com/UltimatePancake/dbanspy && cd dbanspy
 $ pip install .
 ```
 
